@@ -9,4 +9,7 @@
 - Visualización del tiempo de actividad del sistema (uptime)
 - Interfaz clara y minimalista en la terminal
 
+## Requisitos
+- [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) 
+- [Cualquier distribución de Linux](https://linuxmint.com/download.php)
 
